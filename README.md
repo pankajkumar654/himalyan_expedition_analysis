@@ -3,8 +3,6 @@
 
 OBJECTIVE:-The main objective of creating this project is to analyze the expeditions and deaths occur on different peaks in Himalaya.
 
-*To publish the insights based on the data analysis using MYSql workbench.
-
 *Analyzing the data and different factors affecting the trecking of various mountaineers should be recorded out.
 
 *In this case study there are four tables peaks(consists of peak details),summiteers(consistes of summiteers details),expeditions(consists of expedition details),deaths(consist of death occur details and its causes).
