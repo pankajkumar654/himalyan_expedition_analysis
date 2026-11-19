@@ -1,3 +1,4 @@
+-- Author : Pankaj Karwa
 -- Retrieving data from all the tables
 select * from himalyan.deaths d ;
 select * from himalyan.expeditions e ;
